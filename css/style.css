@@ -1,0 +1,57 @@
+@media (max-width:2560px) {
+    .a {
+        background: #000;
+    }
+
+    .a p {
+        color: aliceblue;
+    }
+
+    .a a {
+        color: aliceblue;
+    }
+
+    .a i {
+        color: red;
+    }
+    .navbar-brand{
+        width: 13%;
+    }
+    .qw{
+        animation-name: weW;
+        animation-timing-function: linear;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+    }
+    @keyframes weW {
+        0%{
+        margin-left: 0px; 
+    }
+    100%{
+        margin-left: 1000px; 
+        
+        }
+    }
+    .ert{
+        padding: 50px 0px;
+        background: url(https://avatars.mds.yandex.net/i?id=c9b4f0625197df28309390d0671b4c8956329103-4481783-images-thumbs&n=13);
+        background-size:;
+    }
+
+}
+
+@media (max-width:1920px) {}
+
+@media (max-width:1440px) {}
+
+@media (max-width:1024px) {}
+
+@media (max-width:768px) {}
+
+@media (max-width:576px) {}
+
+@media (max-width:425px) {}
+
+@media (max-width:375px) {}
+
+@media (max-width:320px) {}
